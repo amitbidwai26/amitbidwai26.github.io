@@ -157,6 +157,10 @@ a:focus {
 .cd-primary-nav{
     list-style: none;
 }
+.button2 
+{
+        background-color: #008CBA;
+}
 .right-menu{
     display: none !important;
 }

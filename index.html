@@ -1167,7 +1167,7 @@
             </div>
             <div class="contact-wrapper">
                 <div class="container contact-holder">
-                    <form action="#">
+                    <form action="mail.php" method="post">
                         <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12 contact-detail col-sm-push-7">
                             <div class="detail-holder">
                                 <div class="left-detail">
@@ -1210,10 +1210,10 @@
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-7 col-sm-7 col-xs-12 col-lg-offset-1 col-sm-pull-5">
-                           <input type="text" placeholder="Name" required> 
-                           <input type="email" placeholder="Email" required> 
-                           <textarea placeholder="Message" required></textarea>
-                           <input type="submit" value="SUBMIT">
+                           <input type="text" name="name" placeholder="Name" required> 
+                           <input type="email" name="email" placeholder="Email" required> 
+                           <textarea placeholder="Message" name="message" required></textarea>
+                           <input type="submit"  name="submit" value="SUBMIT">
                         </div>
                     </form>
                 </div>

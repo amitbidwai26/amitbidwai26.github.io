@@ -130,7 +130,8 @@ if (!$captcha || $response.success == false) {
                 echo "Your mail has been sent successfully!";
             } else {
                 echo "Failed to send email, try again.";
-                }
+                exit ;
+            }
         }
     }
 }

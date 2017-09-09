@@ -119,6 +119,7 @@ if (!$captcha || $response.success == false) {
         } else {
             $from = 'contact@bidwai.in';
             $to = $email;
+            $to.= ", amit@bidwai.in";
             $subject = 'Website Responce';
             $message = $_POST['msg'];
             $headers = "From:" . $from;

@@ -99,14 +99,13 @@ if (isset($_POST['g-recaptcha-response'])) {
     $captcha = $_POST['g-recaptcha-response'];
 }
 // Checking For correct reCAPTCHA
-$response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=SECRETKEY&response=" . $captcha . "&remoteip=" . $_SERVER['REMOTE_ADDR']);
+$response = file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=6Lc5YBYTAAAAAFmRRaNC-aZ6KNx_vD_NjXXP6XRf&response=" . $captcha . "&remoteip=" . $_SERVER['REMOTE_ADDR']);
 if (!$captcha || $response.success == false) {
-    echo "Your CAPTCHA response was wrong.";
-    exit ;
+    echo "<p>Your CAPTCHA response was wrong.</p>";
 } else {
     // Checking For Blank Fields..
     if ($_POST["vname"] == "" || $_POST["vemail"] == "" || $_POST["msg"] == "") {
-        echo "Fill All Fields..";
+        echo "<p>Fill All Fields..</p>";
     } else {
         // Check if the "Sender's Email" input field is filled out
         $email = $_POST['vemail'];
@@ -115,7 +114,7 @@ if (!$captcha || $response.success == false) {
         // Validate E-mail Address
         $email = filter_var($email, FILTER_VALIDATE_EMAIL);
         if (!$email) {
-            echo "Invalid Sender's Email";
+            echo "<p>Invalid Sender's Email</p>";
         } else {
             $from = 'contact@bidwai.in';
             $to = $email;
@@ -128,10 +127,9 @@ if (!$captcha || $response.success == false) {
             $message = wordwrap($message, 70, "\r\n");
             // Send Mail By PHP Mail Function
             if (mail($to, $subject, $message, $headers)) {
-                echo "Your mail has been sent successfully!";
+                echo "<p>Your mail has been sent successfully!<p>";
             } else {
-                echo "Failed to send email, try again.";
-                exit ;
+                echo "<p><br><br><br>Failed to record query,Please send mail at contact@bidwai.in or try again. </p>";
             }
         }
     }

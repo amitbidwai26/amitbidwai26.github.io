@@ -1,9 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-</urlset>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+    <loc>http://bidwai.com</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/payment.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/index.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/cloud.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/analytics.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/contentmanagementsystem.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/search_engine_and_integration.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/branding.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/creativedesign.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/bootstrap.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/development.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/./assets/pdf/bidwai_technologies_corporate_overview.pdf</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog_with_leftbar.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog_with_rightbar.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog_detail.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog_detail_leftbar.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/blog_detail_rightbar.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/https%3a%2f%2fwww.facebook.com%2fbidwaitechnologies%2f&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=true&amp;show_facepile=true&amp;appid=612930275552749</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/index</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/services-detail.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://bidwai.com/team.html</loc>
+    <lastmod>2018-06-09</lastmod>
+    <changefreq>monthly</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+</urlset>      

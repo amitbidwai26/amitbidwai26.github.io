@@ -196,7 +196,7 @@ if (!$captcha || $response.success == false) {
     </footer>
     <div class="clear"></div>
     <section class="botton-bar">
-        <span>All Rights Reserved. © 2018 Design by <a href="mailto:amit@bidwai.in?Subject=Contact From Website">Bidwai Technologies</a></span>
+        <span>All Rights Reserved. © 2019 Design by <a href="mailto:amit@bidwai.in?Subject=Contact From Website">Bidwai Technologies</a></span>
     </section>
     <a href="#" class="scrollToTop"><i class="fa fa-angle-up"></i></a>
     <!-- FOOTER END -->
